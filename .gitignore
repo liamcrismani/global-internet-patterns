@@ -163,3 +163,6 @@ cython_debug/
 
 # Data
 data/export/*
+
+# Zoho analytics sdk
+Zoho*
